@@ -1,0 +1,17 @@
+doctor_id,name,qualification,specializations,working_start,working_end,working_days,is_active,consultation_fee,experience_years
+1,Dr. Ramesh Shanmugam,"M.D.S, Clinical Director","Orthodontics,Dentofacial Orthopedics,Periodontal Surgeries,Root canals,Cosmetic dentistry,Dental implants,Oral Implantologist (certified from Manipal)",09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+2,Dr. Ranjana Ramesh,"M.D.S, Cosmetic Dentist","Cosmetic dentistry,Biofunctional Prosthetic System (BPS) specialist,Full mouth rehabilitation,Laser dentistry,Implant dentistry",09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+3,Dr. Shalini,Endodontist,Endodontist,09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+4,Dr. Sabitha,General Dentist,General Dentist,09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+5,Dr. Thivya Shankari,Endodontist,Endodontist,09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+6,Dr. Shwetha,General Dentist,General Dentist,09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+7,Dr. Ashwini,Pedodontist,Pedodontist,09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+8,Dr. Angelin,Periodontist,Periodontist,09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+9,Dr. Geetha,General Dentist,General Dentist,09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+10,Dr. Glory,General Dentist,General Dentist,09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+11,Dr. Sharath,Oral Medicine & Radiology,"Oral Medicine,Radiology",09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+12,Dr. Sathya,General Dentist,General Dentist,09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+13,Dr. Nakshatra,General Dentist,General Dentist,09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+14,Dr. Gayathri,Pedodontist,Pedodontist,09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+15,Dr. Vishnu Priya,General Dentist,General Dentist,09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
+16,Dr. Asha V Shet,Oral & Maxillofacial Surgeon,"Oral,Maxillofacial Surgeon",09:00,18:00,"Mon,Tue,Wed,Thu,Fri,Sat",True,500,5
