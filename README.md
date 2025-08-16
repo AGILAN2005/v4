@@ -19,11 +19,6 @@ An Intelligent, Multilingual Voice Agent for Seamless Patient Care, powered by L
 <p align="center">
   <i>This repository contains the source code for <b>Apollo Assist</b>, a real-time, conversational AI designed to automate and enhance patient-receptionist interactions at hospitals. It understands Tamil and English, manages appointments, recommends doctors, and sends SMS notifications.</i>
 </p>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e20f0190-67c0-42c2-808b-5975d0b98583" alt="Demo GIF of Apollo Assist in Action" width="800"/>
-</div>
-
 ---
 
 ## ✨ Features  
