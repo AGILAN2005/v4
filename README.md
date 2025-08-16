@@ -138,7 +138,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/apollo-assist.git
+git clone https://github.com/AGILAN2005/v4.git
 cd apollo-assist
 
 # Create virtual environment
@@ -161,7 +161,7 @@ python seed.py
 
 ```bash
 # Clone and run with Docker
-git clone https://github.com/your-username/apollo-assist.git
+git clone https://github.com/AGILAN2005/v4.git
 cd apollo-assist
 
 # Build and run with Docker Compose
@@ -743,7 +743,7 @@ We ❤️ contributions! Here's how you can help make Apollo Assist better:
 
 1. **Fork the repository**
    ```bash
-   git fork https://github.com/your-username/apollo-assist.git
+   git fork https://github.com/AGILAN2005/v4.git
    ```
 
 2. **Create a feature branch**
@@ -849,14 +849,14 @@ Special thanks to all the developers, testers, and healthcare professionals who 
 <div align="center">
     <h3>🌟 Star this project if you find it helpful! 🌟</h3>
     <p>
-        <a href="https://github.com/your-username/apollo-assist/stargazers">
-            <img src="https://img.shields.io/github/stars/your-username/apollo-assist?style=social" alt="GitHub stars">
+        <a href="https://github.com/AGILAN2005/v4/stargazers">
+            <img src="https://img.shields.io/github/stars/AGILAN2005/v4?style=social" alt="GitHub stars">
         </a>
-        <a href="https://github.com/your-username/apollo-assist/network/members">
-            <img src="https://img.shields.io/github/forks/your-username/apollo-assist?style=social" alt="GitHub forks">
+        <a href="https://github.com/AGILAN2005/v4/network/members">
+            <img src="https://img.shields.io/github/forks/AGILAN2005/v4?style=social" alt="GitHub forks">
         </a>
-        <a href="https://github.com/your-username/apollo-assist/issues">
-            <img src="https://img.shields.io/github/issues/your-username/apollo-assist" alt="GitHub issues">
+        <a href="https://github.com/AGILAN2005/v4/issues">
+            <img src="https://img.shields.io/github/issues/AGILAN2005/v4" alt="GitHub issues">
         </a>
     </p>
 </div>
